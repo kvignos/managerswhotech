@@ -3,7 +3,7 @@ Ideas and resources for staying technical as engineering managers
 
 Check out other ideas and add your own on Twitter at [#managerswhotech](https://twitter.com/search?q=%23managerswhotech)
 
-## Finding time
+## Find time
 * Book daily/weekly work calendar slots
 * Book daily/weekly personal calendar slots
 * Schedule a class and invite others
