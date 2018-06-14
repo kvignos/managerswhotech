@@ -45,14 +45,22 @@ Check out other ideas and add your own on Twitter at [#managerswhotech](https://
 * Read a new technology book 
 * Attend conferences 
 * Tech blogs, podcasts
+    - Twitter Engineering Blog (https://blog.twitter.com/engineering)
+    - [Github Blog] (https://blog.github.com/)
+    - Check other company engineering blogs
+    - [Top 16 DevOps blogs you should be reading] (https://apiumhub.com/tech-blog-barcelona/devops-blogs/)
+    - [Software Lead Weekly Newsletter] (http://softwareleadweekly.com/)
+    - [The Ulitmate List of Developer Podcasts] (https://simpleprogrammer.com/ultimate-list-developer-podcasts/)
 * Tool demos from third party providers
 * Slack channels (Rands #architecture, #tech-chat)
+    - [Rands Leadership Slack] (http://randsinrepose.com/welcome-to-rands-leadership-slack/)
 
 ## Customize your career path
 * Move from specialist to generalist
 * Take on a project in unfamiliar territory
 * Manage a team in a new technical domain
 * Consider the IC/manager pendulum
+    - [The engineer/manager pendulum] https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
 * Take a learning sabbatical
 * Alternate between startups and large companies
 * Try reciprocal mentoring relationships
