@@ -1,6 +1,8 @@
 # managerswhotech
 Ideas and resources for staying technical as engineering managers
 
+From ["How to Keep Up Your Technical Skills as a Manager (without annoying your team)"] (https://www.slideshare.net/kvignos/how-to-keep-up-your-technical-skills-without-annoying-your-teams/) presented at O'Reilly Velocity Conference, San Jose, June 2018
+
 Check out other ideas and add your own on Twitter at [#managerswhotech](https://twitter.com/search?q=%23managerswhotech)
 
 ## Find time
