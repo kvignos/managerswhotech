@@ -25,6 +25,7 @@ Check out other ideas and add your own on Twitter at [#managerswhotech](https://
 * Encourage code walkthroughs
 * Offer to do load or diffy testing
 * Remove/delete dead code
+* Set up "labs" environment for non-blocking work and experimentation (contributed by [Refael Botbol](https://github.com/RefaelBotbol) )
 
 ## Automate management tasks
 * Set up system health dashboards
@@ -39,6 +40,7 @@ Check out other ideas and add your own on Twitter at [#managerswhotech](https://
 * Give a conference talk or brown bag about a side project
 * Participate in hackathons (company or outside)
 * Contribute to open source 
+* Write posts for your tech blog (contributed by [Refael Botbol](https://github.com/RefaelBotbol) )
 * Volunteer at code camps and meetups
 * Tutor your kids, niece, friends’ kids
 
@@ -46,7 +48,7 @@ Check out other ideas and add your own on Twitter at [#managerswhotech](https://
 * Take a class (set yourself a cadence)
 * Read a new technology book 
 * Attend conferences 
-* Tech blogs, podcasts
+* Read tech blogs, listen to tech podcasts
     - Twitter Engineering Blog (https://blog.twitter.com/engineering)
     - [Github Blog] (https://blog.github.com/)
     - Check other company engineering blogs
